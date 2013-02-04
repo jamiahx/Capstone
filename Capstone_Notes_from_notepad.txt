@@ -1,0 +1,130 @@
+Actual =					http://notepad.cc/rickope59	;		http://piratepad.net/Wqpdb28kL9
+
+Actual 2.0 = 				http://notepad.cc/kuveoji44
+
+Notes/Outline (This Doc) =	http://notepad.cc/daflame66	;		http://piratepad.net/cxcb6ypRXy
+
+Sources =				http://notepad.cc/cavutra7	;		http://piratepad.net/iGfvefe3q3
+
+How to implement/advertise
+existing infrastructure
+Watch out for Comcast/AT&T lobbyists
+crossover period
+Oceans/Sparse populations
+
+Batman-adv
+Netsukuku
+MANET
+
+BIG ONE: Software Defined Radio (SDR)
+
+CURRENT OUTLINE {
+What can individuals do to  start or join a free (as in freedom)/open mesh network and why would they? (make sure to explain free (as in freedom))
+Open Mesh Networks can potentially give an individual the freedom to be connected wherever and whenever, and freedom from economic and social injustice.
+Directory, companies, organizations, starting points/gateways, set-up, options, comparison, 
+I. What is WiMesh?
+
+        A. Definition
+
+        B. History
+
+II. Benefits
+
+        A. Free
+
+        B. Faster
+
+        C. Healable
+
+        D. Cross-Platform
+
+        E. Censorship circumvention
+
+	F. Can service rural areas (with little special hardware)
+
+III. Cons
+
+        A. Geography
+
+        B. Scalability
+
+        C. Efficiency
+
+        D. Security
+
+        E. not very User-Friendly
+
+        F. Infancy
+
+IV. Conclusions
+
+        A. Propaganda/advertise
+}
+
+The current Internet is a mesh network, but ${#!WIRED_CONS}
+That’s where Mesh Networking comes in...
+What is a Wireless Mesh Network? Iridium Network
+Why use one?
+Why isn’t it used right now? It is, you just don’t know about it.
+Wouldn’t ${PROBLEMS} make it difficult to use?
+Aren’t Open Networks illegal?
+What are the factions within the Wireless Mesh Community?
+How can I join?
+Jeremiah Gärtner
+Ms. Peach
+Capstone Outline
+10/5/12
+
+What is WiMesh? (Intro)
+1 https://commotionwireless.net/get-started
+http://www.cnn.com/2012/03/28/tech/web/vice-free-the-network/index.html?iref=allsearch  
+History
+Telegraph: http://www.jazclass.aust.com/blog/photos81/blog731c.htm
+Why It’s Better - Free, censorship circumvention, natural disasters, cross platform, faster, healable
+Uses
+Types of WiMesh
+MANET: IETF
+iMANET:
+VANET:
+Comparisons
+Potential
+Implementations
+Projects
+OLSR: (Works on: Linux [OLPC, Android, Classmate PC], Windows, FreeBSD [OSX {iOS}], NetBSD, OpenBSD, Nokia N900) olsr.org
+AODV: (Most implementations for Linux, a few for Windows, a couple explicitly for TinyOS; abandoned?, latest found is March 2004) http://moment.cs.ucsb.edu/AODV/aodv.html 
+DYMO: (AODVv2; Mostly for Linux, a couple explicitly for TinyOS) http://ianchak.com/dymo/ 
+BATMAN-adv: openmesh.org
+RoBIn: (BATMAN for routers)
+BABEL:
+HWMP:
+IWMP:
+MRP:
+802.11s:
+Proprietaries:
+Commotion Project: commotionwireless.net
+Meraki: USES PROPRIETARY MESH PROTOCOL
+Comparisons
+Statuses
+Potential
+Ease of Use ... umm
+Implementations
+Current mesh users
+Problems
+Geography
+Scalability
+Throughput
+Efficiency
+Security
+Low Ease-of-Use/Support
+Infancy
+Supplemental Technologies
+How to set up
+Propaganda
+Conclusion
+
+Mentor Meeting:
+Not Technical Paper
+Hugely lopsided
+Transcribe the Outline
+Denote where I need research
+Thesis needs to have free and open

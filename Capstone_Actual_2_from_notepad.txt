@@ -1,0 +1,68 @@
+Actual =					http://notepad.cc/rickope59	;		http://piratepad.net/Wqpdb28kL9
+
+Actual 2.0 (This Doc) = 		http://notepad.cc/kuveoji44
+
+Notes/Outline =			http://notepad.cc/daflame66	;		http://piratepad.net/cxcb6ypRXy
+
+Sources =				http://notepad.cc/cavutra7	;		http://piratepad.net/iGfvefe3q3
+
+Jeremiah Gaertner
+Ms. Peach
+Capstone Project
+............... ...., 2012
+                                                                				Foobar
+
+##	What can individuals do to  start or join a free (as in freedom)/open mesh network and why would they? (make sure to 			#	explain free (as in freedom))
+#		Open Mesh Networks can potentially give an individual the freedom to be connected wherever and whenever, and 		#	freedom from economic and social injustice.
+
+	How much do you pay for internet service, if you live in the US? $50-$100 /month is the average ((double check)) Do you get a fast connection for that? Average Bandwidth is 616KBps. (Google Fiber ((Find the Site)))
+
+
+I. What is WiMesh?
+
+        A. History
+Military started research into mesh networks since they don't need pre-existing infrastructure
+
+        B. Definition
+Mathematical definition of Network
+Mathematical definition of Mesh Network
+WiMesh=Physical Network Layer?
+Comparison with Internet
+Packet Switching, Routing Tables, Routing Protocols
+
+II. Benefits
+
+        A. Free (as in freedom)
+Free (as in freedom) vs. Free (as in beer)
+In order to work
+
+        B. Faster
+
+        C. Healable
+
+        D. Cross-Platform
+as with all new computer technology, most, if not all, dev is done on Linux, but stuff gets ported to other systems once it's mature enough
+
+        E. Censorship circumvention
+
+	F. Can service rural areas (with little special hardware)
+
+
+III. Cons
+
+        A. Geography
+
+        B. Scalability
+
+        C. Efficiency
+
+        D. Security
+
+        E. not very User-Friendly
+
+        F. Infancy
+
+
+IV. Conclusions
+
+        A. Propaganda/advertise

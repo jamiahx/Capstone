@@ -1,0 +1,70 @@
+Actual (This Doc) =			http://notepad.cc/rickope59	;		http://piratepad.net/Wqpdb28kL9
+
+Actual 2.0 = 				http://notepad.cc/kuveoji44
+
+Notes/Outline =			http://notepad.cc/daflame66	;		http://piratepad.net/cxcb6ypRXy
+
+Sources =				http://notepad.cc/cavutra7	;		http://piratepad.net/iGfvefe3q3
+
+Jeremiah Gaertner
+Ms. Peach
+Capstone Project
+............. ...., 2012
+                                                                				Foobar
+##	What can individuals do to  start or join a free (as in freedom)/open mesh network and why would they? (make sure to 			#	explain free (as in freedom))
+#		Open Mesh Networks can potentially give an individual the freedom to be connected wherever and whenever, and 		#	freedom from economic and social injustice.
+
+
+	How much do you pay for internet service, if you live in the US? $50-$100 /month is the average ((double check)) Do you get a fast connection for that? Average Bandwidth is 5 Mbps. (Google Fiber ((Find the Site))) 
+I. What is WiMesh?
+
+        A. Definition
+        The Internet is best described as a network of networks. It allows members of a single network, like the desktops connected to a ethernet router, to connect to the members of another network, like a website in a server farm. In connecting these networks, the Internet is mainly arranged as a mesh network. Mesh networking has vastly improved since it’s first uses in the Internet, and one of the new innovations is Wireless Mesh, or WiMesh, which has the potential to move most of the internet onto the airwaves. (will rewrite)
+This comes from the common definition of a network as a sum of individuals, or nodes, and their connections of a common type. The Internet, however, connects networks that are completely different from each other. (inclusion dubious)
+        According to the Open Technology Initiative, "A mesh wireless network offers the ability of users to connect directly to each other and facilitate a distributed network infrastructure that provides multiple paths for communication to the network and does not require centrally-located towers." (http://newamerica.net/publications/policy/introduction_to_mesh_networking) The *blank* defines it as 
+
+What can individuals do to start or join a free (as in freedom)/open mesh network and why would they?
+        “A mesh network allows users to connect directly to each other and create a distributed network infrastructure that provides multiple paths for communication and does not require a central hub” (“Commotion” about).
+        //hierarchal system, where the lowest common control center between the sender and the destination would ultimately direct each and every message, so nodes connect to their neighbors. With this configuration, messages wouldn’t have to always travel up the chain of control centers until it got to one that could send it back down the chain to its destination, they could travel sideways, hop from station to station (mostly) in the direction of the destination.\\ (will be scrapped)
+
+I. Benefits
+
+        A. Free
+
+        B. Faster
+
+        C. Healable
+
+        D. Cross-Platform
+
+        E. Censorship circumvention
+
+	F. Can service rural areas (with little special hardware)
+
+III. Cons
+
+        A. Geography
+
+        B. Scalability
+        WiMesh networks use WiFi, Bluetooth, or other kinds of radios to create a mesh network: a network where each individual, or node, connects to neighboring nodes, which, if there aren’t any isolated groups, causes any given node to be connected to every other node. In order to send messages within the network, WiMesh (and the Internet) use a tool called (When a person accesses a location on the Internet...) Packet Switching: When a node has a message to send, it uses a Routing Table, a list of connections between and addresses of nodes in the network nodes keep in their memory, to pre-plan a route from it to the destination node. It then combines the route and the message into a packet, and sends the packet off. As the packet reaches each node along the path, the node looks at the route and compares it to its own Routing Table to determine where to send it next, until the packet reaches it’s destination.
+        As a mesh network steadily grows, the Routing Tables and number of computations needed for route planning grow more, requiring larger shares of computing power and electricity. In order to compensate for this, the Internet uses dedicated routers to do most of the computing and to share single addresses among multiple devices, which requires less work to route but can also cause a slower connection. However, since almost every device is independent in a WiMesh, the routing is... it cannot expand beyond a certain size...
+
+        C. Efficiency
+
+        D. Security
+
+        E. not very User-Friendly
+
+        F. Infancy
+
+IV. Conclusions
+
+        A. Propaganda/advertise
+
+Scale Limitations
+
+Geographic Limitations
+
+Bucket Brigade
+
+Anchors Away!
